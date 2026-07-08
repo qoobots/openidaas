@@ -13,7 +13,7 @@
   - groupId: com.qoobot
   - artifactId: openidaas
   - version: 10.3.2
-- **GitHub仓库**: https://github.com/qoobot-com/openidaas
+- **GitHub仓库**: https://github.com/qoobots/openidaas
 - **编码格式**: UTF-8
 - **数据库配置**:
   - 地址: localhost:3306

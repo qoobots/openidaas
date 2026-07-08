@@ -29,8 +29,8 @@ info:
   version: 1.0.0
   contact:
     name: Qoobot开发团队
-    email: dev@qoobot.com
-    url: https://github.com/qoobot-com/openidaas
+    email: hello@qoobot.com
+    url: https://github.com/qoobots/openidaas
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT

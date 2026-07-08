@@ -21,7 +21,7 @@
 
     <name>OpenIDaaS</name>
     <description>OpenIDaaS Enterprise Identity Authentication System</description>
-    <url>https://github.com/qoobot-com/openidaas</url>
+    <url>https://github.com/qoobots/openidaas</url>
 
     <!-- 模块声明 -->
     <modules>
@@ -755,7 +755,7 @@
         <developer>
             <id>qoobot</id>
             <name>Qoobot Team</name>
-            <email>dev@qoobot.com</email>
+            <email>hello@qoobot.com</email>
             <organization>Qoobot</organization>
             <organizationUrl>https://www.qoobot.com</organizationUrl>
             <roles>
@@ -778,9 +778,9 @@
 
     <!-- SCM 信息 -->
     <scm>
-        <connection>scm:git:git://github.com/qoobot-com/openidaas.git</connection>
+        <connection>scm:git:git://github.com/qoobots/openidaas.git</connection>
         <developerConnection>scm:git:ssh://github.com:qoobot/openidaas.git</developerConnection>
-        <url>https://github.com/qoobot-com/openidaas/tree/main</url>
+        <url>https://github.com/qoobots/openidaas/tree/main</url>
         <tag>HEAD</tag>
     </scm>
 
@@ -805,13 +805,13 @@
     <!-- 问题追踪 -->
     <issueManagement>
         <system>GitHub Issues</system>
-        <url>https://github.com/qoobot-com/openidaas/issues</url>
+        <url>https://github.com/qoobots/openidaas/issues</url>
     </issueManagement>
 
     <!-- 持续集成 -->
     <ciManagement>
         <system>GitHub Actions</system>
-        <url>https://github.com/qoobot-com/openidaas/actions</url>
+        <url>https://github.com/qoobots/openidaas/actions</url>
     </ciManagement>
 
 </project>

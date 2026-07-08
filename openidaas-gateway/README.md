@@ -62,7 +62,7 @@ OpenIDaaS Gateway 是基于 Spring Cloud Gateway 构建的企业级 API 网关�
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/qoobot-com/openidaas.git
+git clone https://github.com/qoobots/openidaas.git
 cd openidaas/openidaas-gateway
 ```
 

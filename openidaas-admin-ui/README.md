@@ -293,8 +293,8 @@ MIT License
 ## 📞 技术支持
 
 如有问题，请联系：
-- 邮箱: dev@qoobot.com
-- GitHub: https://github.com/qoobot-com/openidaas
+- 邮箱: hello@qoobot.com
+- GitHub: https://github.com/qoobots/openidaas
 
 ## 🙏 致谢
 

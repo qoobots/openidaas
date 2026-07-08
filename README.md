@@ -254,8 +254,8 @@ src/main/java/com/qoobot/openidaas/
 
 ## 联系方式
 
-- 项目主页: https://github.com/qoobot-com/openidaas
-- 邮箱: dev@qoobot.com
+- 项目主页: https://github.com/qoobots/openidaas
+- 邮箱: hello@qoobot.com
 - 文档: https://docs.qoobot.com/openidaas
 - Spring Cloud Alibaba指南: [docs/SPRING_CLOUD_ALIBABA_GUIDE.md](docs/SPRING_CLOUD_ALIBABA_GUIDE.md)
 - 部署指南: [docs/DEPLOYMENT_GUIDE.md](docs/DEPLOYMENT_GUIDE.md)

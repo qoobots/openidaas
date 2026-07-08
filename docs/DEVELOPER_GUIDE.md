@@ -106,7 +106,7 @@ pnpm install
 
 ```bash
 # 克隆仓库
-git clone https://github.com/qoobot-com/openidaas.git
+git clone https://github.com/qoobots/openidaas.git
 cd openidaas
 
 # 配置 Git
